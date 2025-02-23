@@ -29,7 +29,7 @@ pip install pillow numpy opencv-python
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RushendraNuthi/ImageSteganography_usingPython.git
+   git clone https://github.com/Manjith143/Secure-Data-Hiding-in-Image-using-Steganography.git
    ```
 2. Navigate to the project directory:
    ```bash
